@@ -22,3 +22,7 @@ Fork it, change it, share it. The whole app is `index.html`; open it in any text
 ## License
 MIT. Free to use, modify and redistribute, provided the copyright notice ("Copyright (c) 2026 theanalogcircuit") stays with copies. See `LICENSE`.
 The bundled MP3 encoder (lamejs) is LGPL-3.0; see `THIRD_PARTY_NOTICES.md`.
+
+## Preview
+
+![Atmosfera](screenshots/main.jpg)
