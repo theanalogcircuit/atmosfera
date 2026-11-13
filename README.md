@@ -7,7 +7,7 @@ A generative ambient soundscape instrument in **one HTML file**. Every sound is 
 2. Open it in a modern browser (Chrome, Edge, Firefox, Safari). It works offline.
 3. Press **START**, pick a preset or hit **Randomise**, and listen.
 
-Live version: _add your GitHub Pages link here_
+Live version: https://theanalogcircuit.github.io/atmosfera/
 
 ## Features
 - Five layers: Atmosphere, Choir, Strings, Environment, Bells/Sparks, plus Dynamic Drone and an Instrument Rack
